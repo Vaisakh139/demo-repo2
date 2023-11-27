@@ -1,0 +1,16 @@
+h1, h2, .game-canvas{
+    text-align: center;
+  
+}
+
+h2{
+    width: 600px;
+    height: 50px;
+    margin: auto;
+    background-color: aquamarine;
+    
+}
+span{
+    color: rgb(188, 5, 5);
+}
+
